@@ -208,6 +208,7 @@ p.centre {
     padding: 20px;
     padding-top: 50px;
     max-width: 1224px;
+    margin: auto;
 }
 
 /* Ensures each .content section has equal width */
@@ -240,6 +241,7 @@ p.centre {
     align-items: center; /* Vertically centers items */
     padding: 20px;
     padding-top: 50px;
+    margin: auto;
 }
 
 
@@ -418,13 +420,13 @@ input, textarea {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.2);
     padding: 50px;
     width: 90%;
-    max-width: 1170px;
+    max-width:1224px;
     margin: auto;
 }
 
 .welcome-row {
     width: 90%;
-    max-width: 1170px;
+    max-width:1224px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 50px 30px;
@@ -510,7 +512,7 @@ input, textarea {
     padding: 20px;
     margin: auto;
     width: 90%;
-    max-width: 1200px;
+    max-width:1224px;
     place-items: none;
 }
 
@@ -587,7 +589,7 @@ input, textarea {
 .accordion-container {
     width: 90%;
     margin: auto;
-    max-width: 1200px;
+    max-width:1224px;
     justify-content: center;
     align-items: center;   
     padding: 50px;
@@ -800,7 +802,7 @@ input, textarea {
 .cta-container {
     background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(images/heritage-stone-cardiff-contact-us.jpg);
     width: 100%;
-    height: 100vh;
+    height: 80vh;
     background-position: bottom;
     background-size: cover;
     justify-content: center;
@@ -809,7 +811,8 @@ input, textarea {
 }
 .cta-content {
     width: 90%;
-    max-width: 1170px; /* Adjusted to maintain consistency */
+    max-width:1224px;
+    margin: auto;
     text-align: center;
     background-color: rgba(248, 249, 250, 0.9); /* Slightly higher opacity for visibility */
     padding: 50px;
@@ -903,7 +906,7 @@ input, textarea {
 }
 
 .map-container {
-    max-width: 1770px;
+    max-width:1224px;
     width: 90%;
     margin: auto;
 }
