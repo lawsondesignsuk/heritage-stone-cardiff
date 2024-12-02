@@ -207,6 +207,7 @@ p.centre {
     align-items: center; /* Vertically centers items */
     padding: 20px;
     padding-top: 50px;
+    max-width: 1770px;
 }
 
 /* Ensures each .content section has equal width */
