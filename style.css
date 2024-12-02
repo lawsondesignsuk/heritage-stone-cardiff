@@ -207,7 +207,7 @@ p.centre {
     align-items: center; /* Vertically centers items */
     padding: 20px;
     padding-top: 50px;
-    max-width: 1770px;
+    max-width: 1224px;
 }
 
 /* Ensures each .content section has equal width */
@@ -232,6 +232,7 @@ p.centre {
 .hero-container-2 {
     background-position: center;
     background-size: cover;
+    max-width:1224px;
     height: 100%;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); /* Creates flexible columns */
@@ -668,7 +669,7 @@ input, textarea {
 
 .review-container {
     width: 90%;
-    max-width: 1770px;
+    max-width: 1224px;
     margin: auto;
     padding: 50px;
     text-align: center;
@@ -679,7 +680,7 @@ input, textarea {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.2);
     width: 90%;
     margin: auto;
-    max-width: 1770px;
+    max-width: 1224px;
     padding: 50px;
 }
 
@@ -705,7 +706,7 @@ input, textarea {
 .faq-section {
     padding: 50px;
     width: 90%;
-    max-width: 1700px;
+    max-width: 1224px;
     margin: auto;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.2);
 }
