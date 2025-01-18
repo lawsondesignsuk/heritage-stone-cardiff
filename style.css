@@ -1222,7 +1222,7 @@ ul.contact-details li {
 
 .popup {
     position: relative;
-    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('heritage-stone-cardiff-castle.jpg') no-repeat center center fixed;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('images/heritage-stone-cardiff-stone-and-brickwork.jpg') no-repeat center center fixed;
     background-size: cover;
     border-radius: 15px;
     max-width: 400px;
