@@ -244,7 +244,6 @@ body {
 /* ======= TRUST BADGES ======= */
 #trust-badges {
     padding: 50px 20px;
-    padding-bottom: 150px;
     background: linear-gradient(135deg, #ff7f50, #ffcc00);
     text-align: center;
 }
@@ -288,6 +287,9 @@ body {
         grid-template-columns: 1fr;
     }
 
+    section.contact {
+        wid
+
     .reviews {
         flex-direction: column;
     }
@@ -301,4 +303,11 @@ body {
     .hero-content p {
         font-size: 1.5rem;
     }
+}
+
+section.contact {
+        padding: 50px 20px;
+    padding-bottom: 150px;
+    text-align: center;
+    margin: auto;
 }
