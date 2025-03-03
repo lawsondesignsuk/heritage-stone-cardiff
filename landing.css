@@ -259,6 +259,15 @@ body {
     margin: 0 15px;
 }
 
+#contact {
+    margin: auto;
+    max-width: 1200px;
+    padding: 80px 20px;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
 /* ======= STICKY CTA BUTTON ======= */
 #sticky-cta {
     position: fixed;
@@ -305,9 +314,3 @@ body {
     }
 }
 
-#contact {
-        padding: 50px 20px;
-    padding-bottom: 150px;
-    text-align: center;
-    margin: auto;
-}
