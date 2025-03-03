@@ -266,6 +266,8 @@ body {
     display: grid;
     align-items: center;
     justify-content: center;
+    text-align: center;
+    padding-bottom: 100px;
 }
 
 /* ======= STICKY CTA BUTTON ======= */
